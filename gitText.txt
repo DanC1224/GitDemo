@@ -1,3 +1,4 @@
+<<<<<<< .mine
 new txt to commit
 3rd comit
 4th commit
