@@ -1,0 +1,3 @@
+new txt to commit
+
+2nd revert and commit
