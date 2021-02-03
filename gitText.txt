@@ -1,6 +1,3 @@
-<<<<<<< .mine
 new txt to commit
-3rd comit
-4th commit
 
-after 1st revert
+2nd revert and commit
